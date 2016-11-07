@@ -48,6 +48,7 @@
 	font-weight:100;
 	text-transform:uppercase;
 	margin:20px 0;
+	word-wrap:break-word;
 }
 p {
 	font-family:'Helvetica Neue';
@@ -166,6 +167,7 @@ button:hover {
 /* mobile */
 @media screen and (max-width:980px) {
 	.container {
+		width:100%;
 		padding:0 20px;
 	}
 }
