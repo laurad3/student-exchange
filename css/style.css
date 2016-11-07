@@ -49,6 +49,7 @@
 	text-transform:uppercase;
 	margin:20px 0;
 	word-wrap:wrap;
+	word-wrap:break-word;
 }
 p {
 	font-family:'Helvetica Neue';
