@@ -1,0 +1,50 @@
+.image {
+	width:350px;
+	margin:0 auto;
+	height:200px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+.slide-1 .image {
+	background-image:url('../images/stuttgart/img_1.jpg');
+}
+.slide-2 .image {
+	background-image:url('../images/stuttgart/img_2.jpg');
+}
+.slide-3 .image {
+	background-image:url('../images/stuttgart/img_3.jpg');
+}
+.slide-4 .image {
+	background-image:url('../images/stuttgart/img_4.jpg');
+}
+.slide-5 .image {
+	background-image:url('../images/stuttgart/img_5.jpg');
+}
+.slide-6 .image {
+	background-image:url('../images/heidelberg/img_1.jpg');
+}
+.slide-7 .image {
+	background-image:url('../images/heidelberg/img_2.jpg');
+}
+.slide-8 .image {
+	background-image:url('../images/heidelberg/img_3.jpg');
+}
+.slide-9 .image {
+	background-image:url('../images/mercedes/img_1.jpg');
+}
+.slide-10 .image {
+	background-image:url('../images/mercedes/img_2.jpg');
+}
+.slide-11 .image {
+	background-image:url('../images/mercedes/img_3.jpg');
+}
+.slide-12 .image {
+	background-image:url('../images/weihnachts/img_1.jpg');
+}
+.slide-13 .image {
+	background-image:url('../images/weihnachts/img_2.jpg');
+}
+.slide-14 .image {
+	background-image:url('../images/weihnachts/img_3.jpg');
+}
